@@ -4,7 +4,7 @@
       "id": 1,
       "title": "The Importance of Exercise",
       "content": "Regular exercise is essential for maintaining good physical and mental health. It can help reduce the risk of chronic diseases, improve cardiovascular health, and boost mood and cognitive function.",
-      "isBookmarked": true
+      "isBookmarked": false
     },
     {
       "id": 2,
@@ -22,7 +22,7 @@
       "id": 4,
       "title": "The Rise of Artificial Intelligence",
       "content": "Artificial Intelligence (AI) is revolutionizing various industries, from healthcare to finance. As AI technology advances, its impact on society and the workforce raises ethical and economic questions.",
-      "isBookmarked": false
+      "isBookmarked": true
     },
     {
       "id": 5,
